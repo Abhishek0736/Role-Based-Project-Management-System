@@ -1,6 +1,26 @@
 # Project Management System (PMS)
 
-A comprehensive role-based project management system built with Node.js, Express, React, and MySQL.
+A comprehensive role-based project management system built with Node.js, Express, React, and MongoDB.
+
+## 📸 Screenshots
+
+### Login & Authentication
+![Login Page](./screenshots/PMS_1.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/PMS_2.png)
+
+### Manager Dashboard
+![Manager Dashboard](./screenshots/PMS_3.png)
+
+### Employee Dashboard
+![Employee Dashboard](./screenshots/PMS_4.png)
+
+### Project Management
+![Project Management](./screenshots/PMS_5.png)
+
+### Task Management & Analytics
+![Task Management](./screenshots/PMS_6.png)
 
 ## Features
 
