@@ -120,4 +120,4 @@ This project is private and proprietary.
 
 ## Support
 
-For support, contact [your-email@example.com]
+For support, contact [akabhi0736@gmail.com]

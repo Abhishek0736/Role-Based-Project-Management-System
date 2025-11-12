@@ -60,11 +60,6 @@ npm run dev
 2. Deploy from GitHub
 3. Configure build settings
 
-## Default Login Credentials
-- **Admin**: admin@pms.com / admin12345
-- **Manager**: manager@pms.com / manager123  
-- **Employee**: employee@pms.com / employee123
-
 ## Security Checklist
 - [ ] Environment variables set
 - [ ] MongoDB Atlas configured
