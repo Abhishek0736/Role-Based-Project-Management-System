@@ -4,23 +4,23 @@ A comprehensive role-based project management system built with Node.js, Express
 
 ## 📸 Screenshots
 
-### Login & Authentication
-![Login Page](./screenshots/PMS_1.png)
-
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/PMS_2.png)
+![Admin Dashboard](./screenshots/PMS_1.png)
 
 ### Manager Dashboard
-![Manager Dashboard](./screenshots/PMS_3.png)
+![Manager Dashboard](./screenshots/PMS_2.png)
 
 ### Employee Dashboard
-![Employee Dashboard](./screenshots/PMS_4.png)
+![Employee Dashboard](./screenshots/PMS_3.png)
 
 ### Project Management
-![Project Management](./screenshots/PMS_5.png)
+![Project Management](./screenshots/PMS_4.png)
 
-### Task Management & Analytics
-![Task Management](./screenshots/PMS_6.png)
+### Task Management
+![Task Management](./screenshots/PMS_5.png)
+
+### Analytics Page
+![Analytics Page](./screenshots/PMS_6.png)
 
 ## Features
 
